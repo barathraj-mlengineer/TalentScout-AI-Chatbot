@@ -2,7 +2,7 @@ import requests
 from prompts import get_question_prompt
 
 # --- HARD-CODED SETTINGS ---------------------------------
-GROQ_API_KEY = "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"     # ← put your key
+GROQ_API_KEY = "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"     # ← put your key
 GROQ_MODEL    = "llama3-70b-8192"                  # ← or whatever model you’re using
 # ---------------------------------------------------------
 
