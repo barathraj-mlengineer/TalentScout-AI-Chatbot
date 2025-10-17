@@ -3,7 +3,7 @@ from prompts import get_question_prompt
 
 # --- HARD-CODED SETTINGS ---------------------------------
 GROQ_API_KEY = "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"     # ← put your key
-GROQ_MODEL    = "llama3-70b-8192"                  # ← or whatever model you’re using
+GROQ_MODEL    = "llama-3.3-70b-versatile"                  # ← or whatever model you’re using
 # ---------------------------------------------------------
 
 def generate_questions(tech_stack):
